@@ -79,6 +79,21 @@ The project covers:
 10. Payment Mode Analysis
 11. Loss & Discount Analysis
 12. Business Insights & Recommendations
+ 
+  
+    ## Power BI Dashboard
+
+Created an interactive Power BI dashboard to analyse e-commerce sales and customer performance.
+
+**Key features:**
+- 6 KPI cards: Total Sales, Total Profit, Total Orders, Total Customers, Average Order Value, and Profit Margin.
+- Sales analysis by month, region, product, and category.
+- Customer and payment mode analysis.
+- Loss-making order analysis by product, region, and discount.
+- Interactive slicers for Year, Region, and Category.
+- DAX measures for business performance analysis.
+
+**Tools Used:** Power BI, DAX, Excel, SQL, Python.
 
 ## 👤 Author
 
