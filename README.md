@@ -95,6 +95,10 @@ Created an interactive Power BI dashboard to analyse e-commerce sales and custom
 
 **Tools Used:** Power BI, DAX, Excel, SQL, Python.
 
+   ## Dashboard Preview
+
+![Power BI Dashboard](PowerBI_Dashboard.png)
+
 ## 👤 Author
 
 **Yashodip Patil**
